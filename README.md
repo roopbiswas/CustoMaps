@@ -7,6 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 A tool to analyse alternative paths between two location on GOOGLE MAPS to get the customized result which will be based on user requirements.
+(Secured Third Position in Hack36 MNNIT,Allahabad)
 
 
 ## Why We Built This
@@ -47,4 +48,11 @@ After going through a lot of Google Map API functions we are able to achieve our
 
 ## Limitations
 Due to a lot of challenges and time limitations we were not able to work on the complexity of API calls...
+
+## Contributors:
+
+* [Suraj Goel](http://www.github.com/suraj-goel)
+* [Anuj Modi](http://www.github.com/descifrado)
+* [Sudhanshu](https://github.com/sudhanshu6324)
+* [Rituparno Biswas](https://github.com/roopbiswas)
   
